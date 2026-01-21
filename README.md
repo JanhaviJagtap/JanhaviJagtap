@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 - 📚 Learning: Kubernetes, AWS, React IntelliQuiz
 
 
-[![LinkedIn](badge)](www.linkedin.com/in/janhavi-r-jagtap) | [Resume](link-to-resume-pdf)
+[![LinkedIn](badge)](https://www.linkedin.com/in/janhavi-r-jagtap) | [Resume](link-to-resume-pdf)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/_.janhavi._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_.janhavi._" height="30" width="40" /></a>
