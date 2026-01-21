@@ -28,7 +28,8 @@ Here are some ideas to get you started:
 
 ## Currently
 - 🔍 Seeking Software Engineer/DevOps roles in Sydney
-- 📚 Learning: Kubernetes, AWS, React IntelliQuiz
+- 📚 Learning: Kubernetes, AWS, React
+- 🚀 Building: IntelliQuiz
 
 
 [![LinkedIn](badge)](https://www.linkedin.com/in/janhavi-r-jagtap) 
