@@ -22,9 +22,9 @@ Here are some ideas to get you started:
 📍 Sydney, Australia | 🎓 Master's @ UTS (IT - Enterprise Software)
 
 ## What I Build
-- 🏥 Health Tech iOS Apps (Swift/SwiftUI)
 - ⚙️ Infrastructure Automation (PowerShell/Ansible)
 - 💻 Enterprise Web Apps (Java Spring Boot/React)
+- 🏥 Tech iOS Apps (Swift/SwiftUI)
 
 ## Currently
 - 🔍 Seeking Software Engineer/DevOps roles in Sydney
